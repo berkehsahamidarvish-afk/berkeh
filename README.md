@@ -15,14 +15,10 @@ AI • Deep Learning • Computer Vision • Python
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikit-learn&logoColor=white)
 
-### 📊 GitHub Stats
-
-![](https://streak-stats.demolab.com?user=berkehshahamidarvish-afk&theme=tokyonight&hide_border=true&border_radius=5)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=berkehshahamidarvish-afk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
+### GitHub Stats
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=berkehshahamidarvish-afk&theme=tokyo-night&hide_border=true&custom_title=Berkeh's%20Contribution%20Graph" width="100%"/>
 ### 📫 Get in touch
 - 💼 [LinkedIn](https://linkedin.com/in/berkeh-shahamidarvish)
-- 
-"The best way to predict the future is to create it."
+> "The best way to predict the future is to create it."
 
-Update README
+Update profile README
