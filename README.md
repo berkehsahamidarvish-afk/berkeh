@@ -22,5 +22,5 @@ AI • Deep Learning • Computer Vision • Python
 
 ### 📫 Get in touch
 - 💼 [LinkedIn](https://linkedin.com/in/berkeh-shahamidarvish)
- "The best way to predict the future is to create it."
+- "The best way to predict the future is to create it."
 Update README
