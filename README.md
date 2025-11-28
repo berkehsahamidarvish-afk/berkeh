@@ -16,9 +16,9 @@ AI • Deep Learning • Computer Vision • Python
 ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikit-learn&logoColor=white)
 
 ### 📊 GitHub Stats
-![Berkeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkehshahamidarvish-afk&show_icons=true&theme=tokyonight&hide_border=true)
+![Berkeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkehshahamidarvish%2Dafk&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkehshahamidarvish-afk&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkehshahamidarvish%2Dafk&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 📫 Get in touch
 - 💼 [LinkedIn](https://linkedin.com/in/berkeh-shahamidarvish)
