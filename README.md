@@ -1,6 +1,6 @@
 # Hi, I'm Berkeh 👋
 
-**Computer Engineering Student @ Bu-Ali Sina University**  
+**Computer Engineering Student *  
 AI • Deep Learning • Computer Vision • Python
 
 ### 🔥 Currently Working On
